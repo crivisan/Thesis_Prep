@@ -4,7 +4,7 @@ Python A-Z™: Python For Data Science With Real Exercises!, https://www.udemy.c
 Exercises data from https://www.superdatascience.com/pages/python. 
       
 # 2_CNNS: 
-Tentative course: https://www.coursera.org/specializations/deep-learning#courses \
+Tentative course: https://www.coursera.org/specializations/deep-learning#courses 
 
 # 3_TF_Keras: 
 Tentative course: https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
