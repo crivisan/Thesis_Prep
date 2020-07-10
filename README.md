@@ -5,7 +5,7 @@ Exercises data from https://www.superdatascience.com/pages/python.
 Finished 07.07.20
 
 # 2_DL_Specialization: 
-Spezialisierung Deep Learning: https://www.coursera.org/specializations/deep-learning#courses 
+Spezialisierung Deep Learning: https://www.coursera.org/specializations/deep-learning#courses \
   2_1_Neural Networks and Deep Learning (on progress...) \
   2_2_Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (pending) \
   2_3_Structuring Machine Learning Projects (pending) \
