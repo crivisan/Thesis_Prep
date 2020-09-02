@@ -6,11 +6,11 @@ Finished 07.07.20
 
 # 2_DL_Specialization: 
 Spezialisierung Deep Learning: https://www.coursera.org/specializations/deep-learning#courses \
-  2_1_Neural Networks and Deep Learning (on progress...) \
-  2_2_Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (pending) \
-  2_3_Structuring Machine Learning Projects (pending) \
-  2_4_Convolutional Neural Networks (pending) \
-  2_5_Sequence Models (pending)
+  2_1_Neural Networks and Deep Learning (finished) \
+  2_2_Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (finished) \
+  2_3_Structuring Machine Learning Projects (finished) \
+  2_4_Convolutional Neural Networks (finished) \
+  2_5_Sequence Models (on progress..)
 
 
 
